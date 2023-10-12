@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="btn_text">Show Menu</string>
+    <string name="colors">Colors</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="gray">Gray</string>
+    <string name="yellow">Yellow</string>
+    <string name="text">Texts</string>
+    <string name="popmenu">Popup Menu</string>
+    <string name="hel_wrld">Hello world !</string>
+    <string name="img">Images</string>
+    <string name="search">Search</string>
+    <string name="android">Android</string>
+    <string name="phone">Phone</string>
+    <string name="wifi">Wifi</string>
+</resources>

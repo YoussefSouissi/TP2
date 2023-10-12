@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/Color"
+        android:title="@string/colors">
+        <menu>
+            <item
+                android:id="@+id/red"
+                android:title="@string/red"/>
+            <item
+                android:id="@+id/blue"
+                android:title="@string/blue"
+                />
+            <item
+                android:id="@+id/green"
+                android:title="@string/green"/>
+
+            <item
+                android:id="@+id/gray"
+                android:title="@string/gray"/>
+
+            <item
+                android:id="@+id/yellow"
+                android:title="@string/yellow"/>
+
+        </menu>
+    </item>
+
+
+    <item
+        android:id="@+id/txts"
+        android:title="@string/text">
+        <menu>
+            <item
+                android:id="@+id/pop_men"
+                android:title="@string/popmenu"
+                />
+            <item
+                android:id="@+id/helloworld"
+                android:title="@string/hel_wrld"
+                />
+
+
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/imgs"
+        android:title="@string/img">
+        <menu>
+            <item
+                android:id="@+id/wifi"
+                android:title="@string/wifi"
+                android:icon="@drawable/wifi"
+                />
+            <item
+                android:id="@+id/phone"
+                android:title="@string/phone"
+                android:icon="@drawable/phone"
+                />
+
+
+        </menu>
+    </item>
+
+
+</menu>
